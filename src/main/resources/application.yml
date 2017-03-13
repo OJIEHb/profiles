@@ -1,0 +1,7 @@
+car:
+  engine:
+    capacity: 50
+  wheel:
+    tyres:
+      name: Rossava
+      size: 16
