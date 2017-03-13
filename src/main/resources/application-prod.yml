@@ -1,0 +1,7 @@
+car:
+  engine:
+    capacity: 60
+  wheel:
+    tyres:
+      name: Michelin
+      size: 17
